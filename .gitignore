@@ -1,0 +1,12 @@
+*.json
+*.bat
+*.ps1
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+*.tmp
